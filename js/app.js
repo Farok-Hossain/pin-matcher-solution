@@ -49,6 +49,4 @@ function verifyPin(){
 let a = Math.pow(4, 0.5)+"spiderman"+"987"+Math.sqrt(9);
 console.log(a);
 
-console.log('farok');
-
 
